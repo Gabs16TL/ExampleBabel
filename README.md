@@ -1,7 +1,7 @@
 # ExampleBabel
 Compilar JS actual para versiones antiguas
 Using babel
-1- We have to install dependency manager npm
+1. We have to install dependency manager npm
 https://nodejs.org/es/download/
 
 2- Instala npm desde la raiz
